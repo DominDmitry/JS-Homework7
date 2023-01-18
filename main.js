@@ -35,6 +35,7 @@ let divider =2;
   } 
 
 //5
+
 let number = +prompt("task 5.  Input nice number");
 for (let i = 1; i <= number; i++) {
   if (number === Math.pow(i, 3)) {
